@@ -13,8 +13,3 @@
 * And use URL and get data in root server
 
 
-# How to use Jenkins without using 8080
-
-# How to install plug-Ins
-
-# How to create webhooks

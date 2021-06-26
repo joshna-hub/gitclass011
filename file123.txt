@@ -1,0 +1,7 @@
+Steps:-
+
+* Java installation & Version verification
+* Jenkins installation and version
+* Login Jenkins in New webpage by using DNS Address:8080
+* Copy the root and paste in root server get passwd
+* Paste passwd in jenkins page and install
